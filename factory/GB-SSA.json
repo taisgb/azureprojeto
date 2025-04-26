@@ -1,0 +1,9 @@
+{
+	"name": "GB-SSA",
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "361fc980-99db-4195-9d6e-bd8004660571",
+		"tenantId": "da49a844-e2e3-40af-86a6-c3819d704f49"
+	}
+}

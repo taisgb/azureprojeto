@@ -1,0 +1,12 @@
+{
+	"name": "GitHub1",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "GitHub",
+		"typeProperties": {
+			"username": "taisgb",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDYzREY3ODc5LTU5RkEtNDYzNC1CNzc3LUI4RUI5MUY3RTVCRF9kOTg3M2NjMC1iOGYzLTQxMTYtYmQ0OC1hM2VkZWI4NWQ2ODYiDQp9"
+		}
+	}
+}
